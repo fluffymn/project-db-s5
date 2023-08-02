@@ -1,30 +1,8 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/hi6724/ssafy-db/raw/main/ssafy_logo.png" alt="ssafy logo" width="50%">
-  <br>
-    <br>
-  SSAFY 프로젝트DB
+  S_F_Y 프로젝트DB
   <br>
 </h1>
-
-<p align="center">
-  <em>SSAFY 프로젝트DB는 SSAFY(삼성 청년 SW아카데미)에서 진행한 프로젝트들을 모아둔 레포지토리 입니다.</em>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/>
-    <img src="https://img.shields.io/github/contributors/hi6724/ssafy-db.svg?style=flat-square" alt="Contributors"/>
-    <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0"/>
-    
-    
-    
-  
-</p>
-
-<p align="center">
-프로젝트를 추가하길 원하시는 분은 <a href="#contributing">Contributing</a>에 따라서 진행해 주시길 바랍니다.  
-</p>
-
 ## 목차
 
 1. **[8기 공통프로젝트 ](#common_8)**
